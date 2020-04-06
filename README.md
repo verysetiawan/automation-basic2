@@ -25,6 +25,11 @@ To run this repository, you need some python library installed on your computer.
             <li>source auto2env/bin/activate</li>
             <li>pip install -r requirement</li>
         </ul>
+     <li>Editing script auto2.py</li>
+        <ul>
+            <li>open script python auto2.py with text editor</li>
+            <li>change the ip address with yours</li>
+       </ul>
     <li>Run the python script</li>
         <ul>
             <li>python3 auto2.py</li>
