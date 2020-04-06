@@ -12,3 +12,21 @@ To run this repository, you need some python library installed on your computer.
     <li>paramiko</li>
 </ul>    
 
+<h3>Setup</h3>
+<ol>
+    <li>Clone this repository</li>
+        <ul>
+            <li>git clone https://github.com/verysetiawan/automation-basic2.git</li>
+            <li>cd automation-basic2</li>
+        </ul>
+    <li>Install requirement library</li>
+        <ul>
+            <li>virtualenv -p python3 auto2env</li>
+            <li>source auto2env/bin/activate</li>
+            <li>pip install -r requirement</li>
+        </ul>
+    <li>Run the python script</li>
+        <ul>
+            <li>python3 auto2.py</li>
+        </ul>
+
